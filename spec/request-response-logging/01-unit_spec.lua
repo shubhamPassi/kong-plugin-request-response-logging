@@ -1,4 +1,4 @@
-local PLUGIN_NAME = "myplugin"
+local PLUGIN_NAME = "spec/myplugin/01-unit_spec.lua"
 
 
 -- helper function to validate data against a schema

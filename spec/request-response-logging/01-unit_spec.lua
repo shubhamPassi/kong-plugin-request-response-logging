@@ -1,4 +1,4 @@
-local PLUGIN_NAME = "spec/request-response-logging/01-unit_spec.lua"
+local PLUGIN_NAME = "request-response-logging"
 
 
 -- helper function to validate data against a schema

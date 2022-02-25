@@ -1,4 +1,4 @@
-local plugin_name = "kong-plugin-myplugin-0.1.0-1.rockspec"
+local plugin_name = "request-response-logging"
 local package_name = "kong-plugin-" .. plugin_name
 local package_version = "0.1.0"
 local rockspec_revision = "1"
